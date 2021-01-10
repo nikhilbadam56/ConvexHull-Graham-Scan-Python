@@ -7,7 +7,7 @@ This video shows the output of the code :
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2h1V9PjCRE0/0.jpg)](https://www.youtube.com/watch?v=2h1V9PjCRE0)
 
-Applications include :
+## Applications include :
  One of the famous application include, finding the the region to be quanrantined based on the past movement of the infected patient.
  
  ![](https://github.com/nikhilbadam56/ConvexHull-Graham-Scan-Python/blob/master/ConvexHullEpidemic.PNG)
